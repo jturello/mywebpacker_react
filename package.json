@@ -36,5 +36,11 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^2.6.1"
-  }
+  },
+  "version": "1.0.0",
+  "description": "demo/learning rails 5.1 w/webpacker=react/yarn",
+  "main": "app/javascript/packs/hello_world.jsx",
+  "repository": "https://github.com/jturello/mywebpacker_react.git",
+  "author": "James Turello <jturello@yahoo.com>",
+  "license": "MIT"
 }
